@@ -7,7 +7,7 @@ export function Profile() {
 
     return (
         <div className={styles.profileContainer}>
-            <img src="https://avatars.githubusercontent.com/u/73050019?v=4" alt="Luca" />
+            <img src="https://github.com/luca-merighi.png" alt="Luca" />
 
             <div>
                 <strong>Luca Fernandes</strong>
